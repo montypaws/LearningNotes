@@ -6,8 +6,10 @@
 在我们继续了解如何安装Java之前，让我们快速地了解JRE、OpenJDK和Oracle JDK之间的不同之处。
 
 - JRE（Java Runtime Environment），它是你运行一个基于Java语言应用程序的所正常需要的环境。如果你不是一个程序员的话，这些足够你的需要。
+
 - JDK代表Java开发工具包，如果你想做一些有关Java的开发（阅读程序），这正是你所需要的。
-- OpenJDK是Java开发工具包的开源实现， `Oracle JDK`是Java开发工具包的官方`Oracle`版本。尽管`OpenJDK`已经足够满足大多数的案例，但是许多程序比如`Android Studio`建议使用Oracle JDK，以避免UI/性能问题。
+
+- `OpenJDK`是Java开发工具包的开源实现， `Oracle JDK`是Java开发工具包的官方`Oracle`版本。尽管`OpenJDK`已经足够满足大多数的案例，但是许多程序比如`Android Studio`建议使用Oracle JDK，以避免UI/性能问题。
 - 
 ## 查看本机java版本。
 
